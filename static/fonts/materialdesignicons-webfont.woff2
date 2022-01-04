@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+ <head> 
+  <title>页面无法找到哦 - 蓝莓Fun</title> 
+  <meta charset="UTF-8" /> 
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no, user-scalable=no" /> 
+  
+  <!-- BEGIN: Vendor CSS--> 
+  <link rel="stylesheet" type="text/css" href="/theme/cool/assets/vendors/css/vendors.min.css" />
+  <!-- END: Vendor CSS--> 
+  
+  <!-- BEGIN: Theme CSS--> 
+  <link rel="stylesheet" type="text/css" href="/theme/cool/assets/css/bootstrap.css" /> 
+  <link rel="stylesheet" type="text/css" href="/theme/cool/assets/css/bootstrap-extended.css" /> 
+  <link rel="stylesheet" type="text/css" href="/theme/cool/assets/css/colors.css" /> 
+  <link rel="stylesheet" type="text/css" href="/theme/cool/assets/css/cool.css" /> 
+ </head> 
+ 
+ <body class="vertical-layout vertical-menu-modern 1-column  navbar-floating footer-static bg-full-screen-image  blank-page blank-page  pace-done" data-open="click" data-menu="vertical-menu-modern" data-col="1-column">
+  <div class="pace  pace-inactive">
+   <div class="pace-progress" data-progress-text="100%" data-progress="99" style="transform: translate3d(100%, 0px, 0px);"> 
+    <div class="pace-progress-inner"></div> 
+   </div> 
+   <div class="pace-activity"></div>
+  </div> 
+  <!-- BEGIN: Content--> 
+  <div class="app-content content"> 
+   <div class="content-overlay"></div> 
+   <div class="header-navbar-shadow"></div> 
+   <div class="content-wrapper"> 
+    <div class="content-header row"> 
+    </div> 
+    <div class="content-body"> 
+     <!-- error 404 --> 
+     <section class="row flexbox-container"> 
+      <div class="col-xl-7 col-md-8 col-12 d-flex justify-content-center"> 
+       <div class="card auth-card bg-transparent shadow-none rounded-0 mb-0 w-100"> 
+        <div class="card-content"> 
+         <div class="card-body text-center"> 
+          <img src="/theme/cool/assets/images/pages/404.png" class="img-fluid align-self-center" alt="branding logo" /> 
+          <h1 class="font-large-2 my-1">404 - 页面无法找到！</h1> 
+          <a class="btn btn-primary btn-lg mt-2 waves-effect waves-light" style="text-decoration:none;" href="/">Back to Home</a> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </section> 
+     <!-- error 404 end --> 
+    </div> 
+   </div> 
+  </div> 
+  <!-- END: Content--> 
+  
+  <!-- BEGIN: Vendor JS--> 
+  <script src="./theme/cool/assets/vendors/js/vendors.min.js"></script> 
+  <!-- BEGIN Vendor JS--> 
+  
+  <!-- BEGIN: Theme JS--> 
+  <script src="/theme/cool/assets/js/core/app-menu.js"></script> 
+  <script src="/theme/cool/assets/js/core/app.js"></script> 
+  <script src="/theme/cool/assets/js/scripts/components.js"></script> 
+  <!-- END: Theme JS--> 
+
+ </body>
+</html>
