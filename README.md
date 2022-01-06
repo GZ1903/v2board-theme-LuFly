@@ -11,7 +11,8 @@ cd V2board/public
 下拉首页文件：
 
 ```shell
-git clone https://github.com/GZ1903/v2board-theme-LuFly.git .
+git clone https://github.com/GZ1903/v2board-theme-LuFly.git
+mv v2board-theme-LuFly/* .
 ```
 
 修改Nginx运行的index优先级：
