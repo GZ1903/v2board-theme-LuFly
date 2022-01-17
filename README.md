@@ -21,7 +21,7 @@ mv v2board-theme-LuFly/* .
 index index.html index.htm index.php;
 ```
 
-> 宝塔搭建的，修改配置文件，将index.html放在第一，其他往后移。
+> 若是宝塔搭建的，自行修改配置文件，将index.html放在第一，其他往后移。
 
 ## 演示
 
