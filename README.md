@@ -25,8 +25,6 @@ index index.html index.htm index.php;
 
 ## 演示
 
-[LuFly](http://106.55.164.82/)
-
 ![sy](https://cdn.jsdelivr.net/gh/gz1903/tu/sy.png)
 ![sy2](https://cdn.jsdelivr.net/gh/gz1903/tu/sy2.png)
 ![sy3](https://cdn.jsdelivr.net/gh/gz1903/tu/sy3.png)
