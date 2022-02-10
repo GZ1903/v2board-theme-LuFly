@@ -5,8 +5,9 @@
 进入v2Board的运行目录：
 
 ```shell
-cd V2board/public
+cd /usr/share/nginx/html/v2board/public/
 ```
+> 宝塔：cd /www/wwwroot/网站目录/v2board/public/
 
 下拉首页文件：
 
