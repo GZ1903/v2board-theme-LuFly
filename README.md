@@ -7,7 +7,7 @@
 ```shell
 cd /usr/share/nginx/html/v2board/public/
 ```
-> 宝塔：cd /www/wwwroot/网站目录/v2board/public/
+> 宝塔：cd /www/wwwroot/网站目录/public/
 
 下拉首页文件：
 
